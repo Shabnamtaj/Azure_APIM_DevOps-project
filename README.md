@@ -1,3 +1,4 @@
+
 # Azure_project
 API project  on Azure Services for automatic Function trigger to send Mails when there is changes in my Azure CosmosDb and Azure Storage Table using Azure Function trigger using Mailtrap API , function code and configuration using Swagger locally using .NET/C# and tested using PostMan.
 
@@ -20,5 +21,11 @@ Project overview :
       1. Transction Insights
       2. Azure Monitor (application insights)
       3. Testing of API - Postman locally and Azure APIM routing in cloud.
-         
-   
+
+
+  Project Architecture Diagram 
+
+  
+
+   ![diagram-export-8-15-2024-8_46_50-PM](https://github.com/user-attachments/assets/a65216b2-f1ea-48ca-8f14-49327e6f9a20)
+
