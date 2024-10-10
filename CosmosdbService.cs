@@ -1,5 +1,5 @@
 using Microsoft.Azure.Cosmos;
-using YourNamespace.Models;
+using FileModel.Models;
 
 public class CosmosDbService : ICosmosDbService
 {
