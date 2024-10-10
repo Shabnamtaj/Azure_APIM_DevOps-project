@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using YourNamespace.Models;
+using FileModel.Models;
 
 public class FileDbContext : DbContext
 {
